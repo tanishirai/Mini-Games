@@ -1,0 +1,1 @@
+This is a simple implementation of the classic Rock, Paper, Scissors game. The project helped me develop a strong understanding of various technologies such as HTML, CSS, JavaScript, and basic game logic. The game allows the player to compete against the computer in a fun, interactive interface.
